@@ -1,0 +1,14 @@
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/bin/Debug/net8.0/GraphNodeApp
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/bin/Debug/net8.0/GraphNodeApp.deps.json
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/bin/Debug/net8.0/GraphNodeApp.runtimeconfig.json
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/bin/Debug/net8.0/GraphNodeApp.dll
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/bin/Debug/net8.0/GraphNodeApp.pdb
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/obj/Debug/net8.0/GraphNodeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/obj/Debug/net8.0/GraphNodeApp.AssemblyInfoInputs.cache
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/obj/Debug/net8.0/GraphNodeApp.AssemblyInfo.cs
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/obj/Debug/net8.0/GraphNodeApp.csproj.CoreCompileInputs.cache
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/obj/Debug/net8.0/GraphNodeApp.dll
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/obj/Debug/net8.0/refint/GraphNodeApp.dll
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/obj/Debug/net8.0/GraphNodeApp.pdb
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/obj/Debug/net8.0/GraphNodeApp.genruntimeconfig.cache
+/home/naza/Desktop/Projects/DSA Assessment/Excercise3/GraphNodeApp/obj/Debug/net8.0/ref/GraphNodeApp.dll
